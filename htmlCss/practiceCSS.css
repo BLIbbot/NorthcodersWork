@@ -76,3 +76,9 @@ li{
     grid-area: 2 / 3 / span 1 / span 1;
     margin: 0px;
 }
+
+.flex-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
