@@ -2,6 +2,16 @@
     border: 1px solid grey;
 }
 
+body{
+    font-size: 2vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-kerning: auto;
+}
+
+.link{
+    font-size: 1.5vw;
+}
+
 .link :hover{
     color:blueviolet;
 }
@@ -9,5 +19,10 @@
 #profilePic{
     border-radius: 50%;
     border: inset rebeccapurple;
-    
+
+}
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 10vw;
 }
