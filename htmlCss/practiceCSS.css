@@ -1,0 +1,13 @@
+*{
+    border: 1px solid grey;
+}
+
+.link :hover{
+    color:blueviolet;
+}
+
+#profilePic{
+    border-radius: 50%;
+    border: inset rebeccapurple;
+    
+}
